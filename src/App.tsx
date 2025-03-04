@@ -147,7 +147,7 @@ options:
           <div className="mt-8 text-center">
             <p className="text-gray-300 mb-4">For more detailed usage information, visit the README file.</p>
             <a 
-              href="https://github.com/waymapscanner/waymap" 
+              href="https://github.com/TrixSec/waymap" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 text-purple-400 hover:text-purple-300 transition-colors"
@@ -200,7 +200,7 @@ options:
             </ul>
             
             <a 
-              href="https://github.com/waymapscanner/waymap/blob/main/CHANGELOG.md" 
+              href="https://waymapscanner.github.io/changelog.html" 
               target="_blank" 
               rel="noopener noreferrer"
               className="mt-6 inline-flex items-center space-x-2 text-purple-400 hover:text-purple-300 transition-colors"
@@ -225,7 +225,7 @@ options:
             <p className="text-gray-300 mb-6">Current stable version with all the latest features and improvements.</p>
             
             <a 
-              href="https://github.com/waymapscanner/waymap/releases/latest" 
+              href="https://github.com/TrixSec/waymap/releases/latest" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-full bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-md flex items-center justify-center space-x-2 transition-colors text-lg mb-4"
@@ -256,7 +256,7 @@ options:
               <a href="#changelog" className="hover:text-purple-400 transition-colors mb-4 md:mb-0">Changelog</a>
               <a href="#download" className="hover:text-purple-400 transition-colors mb-4 md:mb-0">Download</a>
               <a 
-                href="https://github.com/waymapscanner/waymap" 
+                href="https://github.com/TrixSec/waymap" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-purple-400 hover:text-purple-300 transition-colors"
